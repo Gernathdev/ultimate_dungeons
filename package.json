@@ -1,0 +1,14 @@
+{
+  "name": "Ultimate Dungeons",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "export": "*",
+    "minimist": "*",
+    "binary-parser": "*",
+    "mongoose": "*",
+    "underscore": "*",
+    "extend": "*"
+  }
+}
